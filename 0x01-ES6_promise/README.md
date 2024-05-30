@@ -1,1 +1,1 @@
-This project introduces learners to modern JasvaScript essentials.
+This project introduces learners to modern JasvaScript essentials

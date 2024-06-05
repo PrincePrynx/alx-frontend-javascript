@@ -1,1 +1,3 @@
-THE BASICS OF TYPESCRIPT
+# THE BASICS OF TYPESCRIPT
+
+Understanding how typescript works
